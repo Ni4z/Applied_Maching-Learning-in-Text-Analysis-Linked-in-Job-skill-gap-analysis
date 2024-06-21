@@ -1,0 +1,67 @@
+K.184.53311 / Applied Machine Learning for Text Analysis	Seminar			
+Wahlmöglichkeiten innerhalb des Moduls (Options within the module):
+Keine
+Empfohlene Voraussetzungen (prerequisites):
+​Solide Kenntnisse in den Bereichen Machine Learning und Programmierung (Python)
+
+Solid knowledge in the field of machine learning and programming (Python)​
+
+Inhalte (short description):
+Schätzungen zufolge sind heutzutage etwa 80% aller Daten unstrukturiert. Im Gegensatz zu strukturierten Daten, die wohlstrukturiert und inhaltlich meist numerisch sind, sind unstrukturierte Daten oft textuell und daher schwieriger zu interpretieren. Die Aufgabe, Wissen aus Textdokumenten zu extrahieren, bekannt als Textanalyse oder natürliches Sprachverständnis, ist äußerst komplex und immer noch begrenzt durch die Möglichkeiten von Computern, die Feinheiten menschlicher Sprachen zu verstehen.
+In diesem Hands-on-Seminar werden die Studierenden in den aktuellen Stand des maschinellen Lernens und die Techniken der Verarbeitung natürlicher Sprache eingeführt (z.B. Textklassifikation, Themenmodellierung, künstliche neuronale Netze, Worteinbettungen). Durch Programmierübungen (Python) können die Studierenden nicht nur ihr theoretisches Wissen über verschiedene Algorithmen vertiefen, sondern haben auch die Möglichkeit, diese Methoden auf reale Probleme anzuwenden.
+
+It is estimated that approximately 80% of all existing data is unstructured. Unlike structured data, which is usually well-structured and mostly numerical, unstructured data is often textual and therefore far more difficult to interpret. The task of extracting knowledge from text documents, known as text analysis or natural language understanding, is extremely complex and still limited by the ability of computers to understand the subtleties of human languages. In this hands-on seminar, students will be introduced to the current state of machine learning and natural language processing techniques (e.g. text classification, topic modelling, artificial neural networks, word embeddings). With programming exercises (Python), students deepen their theoretical knowledge of different algorithms and get the opportunity to apply these methods to real-world issues.​
+Lernergebnisse (learning outcomes):
+Fachkompetenz Wissen (professional expertise):
+Studierende...
+kennen die Herausforderungen bei der automatischen Analyse natürlich-sprachiger Textdaten
+kennen verschiedene Textanalyse-Techniken und können die zugrundeliegende Logik beschreiben
+kennen die Stärken und Schwächen spezifischer Textanalyse-Techniken
+
+​Students...​
+are aware of the challenges of automatically analysing natural language text data
+know different text analysis techniques and can describe the underlying logic
+know the strengths and weaknesses of specific text analysis techniques
+Fachkompetenz Fertigkeit (practical professional and academic skills):
+Studierende...
+sammeln Textdaten aus dem Web oder unternehmensinternen Datenquellen
+bereinigen und transformieren Textdaten, um sie für statistische Analysen nutzbar zu machen
+wenden Textanalyse-Techniken auf einen vorgegebenen Datensatz an​
+
+​​Students...
+collect text data from the web or company data sources
+cleanse and transform text data to make it usable for statistical analyses
+apply text analysis techniques to a given data set​
+Personale Kompetenz / Sozial (individual competences / social skills):
+Studierende...
+​lösen Geschäftsprobleme (z.B. im Marketing oder Servicemanagement) durch die Erfassung und Analyse von Textdaten (z.B. Online-Rezensionen, Social Media Beiträge, E-Mails)
+
+​​Students...
+solve business problems (e.g. in marketing or service management) by collecting and analysing text data (e.g. online reviews, social media posts, emails)
+Personale Kompetenz / Selbstständigkeit (individual competences / ability to perform autonomously):
+Studierende...
+wählen die richtige Text-Mining-Technik für ein vorgegebenes (bestimmtes) Problem aus
+bewerten die Qualität der Text-Mining-Ergebnisse
+sind sich der Grenzen der automatisierten natürlichen Sprachverarbeitung bewusst
+
+​Students...
+select the correct text mining technique for a given (specific) problem.
+evaluate the quality of the text mining results
+are aware of the limitations of automated natural language processing
+Prüfungsleistungen (examinations)
+Art der Modulprüfung (type of modul examination): Modulteilprüfungen
+Art der Prüfung
+(type of examination)	Umfang
+(extent)	Gewichtung
+(weighting)
+a)	Hausarbeit	20-30 Seiten/pages [03.03.2023]	60.00 %
+b)	Präsentation	30 Minuten/minutes [13.03.2023]	40.00 %
+Studienleistung / qualifizierte Teilnahme (module participation requirements)
+Nein
+Voraussetzungen für die Teilnahme an Prüfungen (formal requirements for participating in examinations)
+Keine
+Voraussetzungen für die Vergabe von Credits (formal requirements for granting credit points)
+Die Vergabe der Credits erfolgt, wenn die Modulnote mindestens „ausreichend“ ist
+Gewichtung für Gesamtnote (calculation of overall grade)
+Das Modul wird mit der Anzahl seiner Credits gewichtet (Faktor: 1)
+Verwendung des Moduls in den Studiengängen (The module can be selected in the following degree programmes)
