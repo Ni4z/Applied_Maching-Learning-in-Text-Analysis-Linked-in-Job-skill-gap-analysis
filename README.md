@@ -4,4 +4,3 @@ This Project investigates the qualification gap between university courses and t
 
 "linkedIn_final_data_27777_jobs.json" this large file can be downloaded from this drive below
 [linkedin data](https://drive.google.com/file/d/1LmrG8e_iR9_zU7yemRsWBYjB-Zu2yWGe/view?usp=sharing)
-
